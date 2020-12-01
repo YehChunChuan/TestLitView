@@ -1,4 +1,4 @@
-package com.example.testrecyclerview;
+package com.example.TestListView;
 
 import org.junit.Test;
 
